@@ -8,7 +8,7 @@ In the first week we started practicing simple interviews. At first we conducted
 
 We also started to work on the case by setting up a kick-off interview with the client.
 
-## Interviews (5 hours)
+## Personal Practice (5 hours)
 
 As a warmup, we started with short interviews to get to know each other better and get a feeling for the interview process. In the two longer interviews, we added some experiments to improve our interviewing skills.
 

@@ -3,9 +3,9 @@
 In the second week, we reflected on the last week's interviews and added new techniques to our interviews to make the interviewee feel more at ease. In the interview, we role played as me being a personal shopper someone who is looking for a new phone.  
 For the case, we conducted the kick-off interview with the client and started to work on the case by setting up a plan for the following weeks.
 
-## Interviews (4 hours)
+## Personal Practice (5 hours)
 
-During this interview session, I implemented a the interview and communication technique that allows the interviewee to feel more at ease. As an experiment, I used a body language that was more open and inviting which let the interviewee feel more comfortable to talk about their experiences. Further details can be found in the Experiments section in the interview with Yvo.
+During this interview session, I implemented a technique that allows the interviewee to feel more at ease. As an experiment, I used a body language that was more open and inviting which let the interviewee feel more comfortable to talk about their experiences. Further details can be found in the Experiments section in the interview with Yvo.
 
 As a warmup I started with an unrecorded interview with Jakub. We then conducted a recorded interview with Ivo where we experimented with the body language techniques.
 

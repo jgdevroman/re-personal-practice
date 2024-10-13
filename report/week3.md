@@ -1,6 +1,6 @@
 # Week 3 
 
-## Interviews (3 hours)
+## Personal Practice (3 hours)
 
 In the third week, we continued to experiment with different interview techniques. In contrast to the previous weeks, I tried to use a more direct and confrontational interview style to see the reaction of the interviewee. 
 
