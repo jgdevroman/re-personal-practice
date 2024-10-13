@@ -29,9 +29,9 @@ Focus: Personal shopper for a new phone
 
 Video Recording: https://drive.google.com/file/d/1yYHwnTIAp7XYSwSo1HTqcZf3Xwtg6EhC/view?usp=sharing
 
-#### Experiments:
+#### Experiments
 
-[Research from Princeton University](https://www.princeton.edu/news/2013/01/15/dont-read-my-lips-body-language-trumps-face-conveying-intense-emotions) shows that body language is a key factor in communication and conveys emotions more effectively than facial expressions.
+[Research from Princeton University](https://www.princeton.edu/news/2013/01/15/dont-read-my-lips-body-language-trumps-face-conveying-intense-emotions) [1] shows that body language is a key factor in communication and conveys emotions more effectively than facial expressions.
 In experiments of the research, participants were better at identifying emotions based solely on body language compared to facial cues, suggesting that body movements carry substantial communicative weight in social interactions.
 
 - Same as Jakub, I tried to use an open body language to express a more open and inviting atmosphere.
@@ -40,7 +40,7 @@ In experiments of the research, participants were better at identifying emotions
 - Compared to the last weeks interviews, I also rotated my body so that our knees were diagonally facing each other. It makes a good mix of being open and not intimidating.
 - Additional to the body language, I was keeping eye contact, kept smiling and added active listening techniques such as nodding (3:40) and adding comments to his thoughts through the interview to have a more engaging conversation.
 
-Self Reflection:
+#### Evaluation
 
 - The interview felt very engaging and form the video you can tell that Ivo was relaxed and enjoyed talking about his interests.
 - I can also see from my body language that I have a far more confident appearance compared to the last weeks interviews.
@@ -48,9 +48,12 @@ Self Reflection:
   - For example at 2:30, I didn't understand what Ivo was saying. Even though I asked him to elaborate, I didn't dig deeper into the topic and didn't let him explain it in more detail. Instead, I moved on to the next question.
 - The interview also fell a bit short as I was too focused on the body language and getting through the questions. I should have let Ivo talk more about his experiences and interests.
 
+Source:
+[1] Princeton University (2013) Don't read my lips: Body language trumps face in conveying intense emotions. Available at: https://www.princeton.edu/news/2013/01/15/dont-read-my-lips-body-language-trumps-face
+
 ## Case Work
 
-In the beginning of the week, we started with a kick-off interview with the client for the "Find the right present" case. We directly approached personally and setup a meeting time and place.
+In the beginning of the week, we started with a kick-off interview with the client for the "Find the right present" case. After a thorough interview preparation and research, we conducted the interview with the client to get a better understanding of the project and the client's vision.
 
 ### Interview Preparation
 
