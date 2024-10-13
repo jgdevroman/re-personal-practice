@@ -3,7 +3,7 @@
 In the second week, we reflected on the last week's interviews and added new techniques to our interviews to make the interviewee feel more at ease. In the interview, we role played as me being a personal shopper someone who is looking for a new phone.  
 For the case, we conducted the kick-off interview with the client and started to work on the case by setting up a plan for the following weeks.
 
-## Interviews
+## Interviews (4 hours)
 
 During this interview session, I implemented a the interview and communication technique that allows the interviewee to feel more at ease. As an experiment, I used a body language that was more open and inviting which let the interviewee feel more comfortable to talk about their experiences. Further details can be found in the Experiments section in the interview with Yvo.
 
@@ -51,7 +51,7 @@ In experiments of the research, participants were better at identifying emotions
 Source:
 [1] Princeton University (2013) Don't read my lips: Body language trumps face in conveying intense emotions. Available at: https://www.princeton.edu/news/2013/01/15/dont-read-my-lips-body-language-trumps-face
 
-## Case Work
+## Case Work (4 hours)
 
 In the beginning of the week, we started with a kick-off interview with the client for the "Find the right present" case. After a thorough interview preparation and research, we conducted the interview with the client to get a better understanding of the project and the client's vision.
 
