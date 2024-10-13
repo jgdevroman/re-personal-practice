@@ -93,7 +93,7 @@ Video Recording: https://drive.google.com/file/d/1-8loB8RHAX_mBngdIF2KAxQteJYmIk
 - Asked follow up questions that are relative to the expectations that the interviewee has. E.g. why a team member would have less value if the expected skill set in a team is high, compared to values that are important if the expected skill set is low. (8:30)
 - Tried to be more present by doing more active listening like nodding or repeating what the interviewee said to show that I am listening.
 
-Self reflection after reviewing the video:
+#### Evaluation
 
 - Still struggling with eye contact and finding the right questions.
 - The active listening was better than in the previous interview and I was able to make the interviewee talk.
