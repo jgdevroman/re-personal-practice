@@ -8,7 +8,7 @@ In the first week we started practicing simple interviews. At first we conducted
 
 We also started to work on the case by setting up a kick-off interview with the client.
 
-## Personal Practice (5 hours)
+## Personal Practice Interviews (5 hours)
 
 As a warmup, we started with short interviews to get to know each other better and get a feeling for the interview process. In the two longer interviews, we added some experiments to improve our interviewing skills.
 
@@ -101,6 +101,6 @@ Video Recording: https://drive.google.com/file/d/1-8loB8RHAX_mBngdIF2KAxQteJYmIk
 
 ## Case Work (2 hours)
 
-After a discussion with our team members, we voted for the "Find the right present" case as our first choice. We then set up a kick-off interview with the client. The kickoff-interview has been initiated by sending [an outreach email](https://docs.google.com/document/d/1AJccQjRAECHxE6ryvtzNYFwTzanImXTt16Eauh7SMzw/edit?tab=t.0) to the client. The email contained a brief introduction of the team and the purpose of the interview.
+After a discussion with our team members, we voted for the "Find the right present" case as our first choice. We then set up a kick-off interview with the client. The kickoff-interview has been initiated by sending an outreach email to the client. The email contained a brief introduction of the team and the purpose of the interview.
 
 Finally, we discussed which role each team member would take in the case and what kind of questions we would ask in the upcoming interviews. I was assigned the role of the backup interviewer to support the main interviewer in the interviews. It could happen that the interview questions derail and the backup interviewer can step in to get the interview back on track.
