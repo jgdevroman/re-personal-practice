@@ -7,7 +7,7 @@ In the fourth and fifth week, we started to implement other requirements enginee
 ### Stakeholder Interviews
 
 After we prepared the questions for the stakeholder interviews in the last week, we started to conduct the interviews with potential users of the system.
-Each of the team members conducted interviews with several people from friends and family who are from different nationality, age group and background. The interview results were collected and analyzed.
+Each of the team members conducted interviews with several people from friends and family who are from different nationality, age group and background. The interview results were collected and analyzed. 
 
 Here are some general insights from the interviews:
 
