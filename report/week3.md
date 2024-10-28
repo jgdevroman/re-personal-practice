@@ -74,7 +74,7 @@ Here are some insights from our research:
 
 Besides Hans, our main client, we started to plan doing interviews with potential users of the platform. As a first step, we started to compile a list of questions we could ask our users that can give us a better understanding of the user's needs and expectations.
 
-The questions are structured in a way that we can get a better understanding of the "system-to-be", thus what kind issues our potential users have with finding the right present and how we can solve them.
+The questions are structured in a way that we can get a better understanding of what kind of struggles the stakeholder has when giving and receiving gifts, thus giving us insight into how we could solve the issues with our solution. 
 
 Following questions have been prepared:
 
